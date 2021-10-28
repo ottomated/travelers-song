@@ -1,0 +1,24 @@
+{
+  "title": "travelers",
+  "titleTemplate": "%s - travelers",
+  "description": "",
+  "openGraph": {
+    "title": "travelers",
+    "description": "",
+    "type": "website",
+    "locale": "en_US",
+    "url": "http://localhost:3000",
+    "site_name": "travelers",
+    "images": [
+      {
+        "url": "http://localhost:3000/card.png",
+        "width": 960,
+        "height": 540,
+        "alt": "travelers"
+      }
+    ]
+  },
+  "twitter": {
+    "cardType": "summary_large_image"
+  }
+}
