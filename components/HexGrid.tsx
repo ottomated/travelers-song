@@ -34,7 +34,7 @@ const HexGrid: FC = () => {
 				y={25.14450867052023}
 			/>
 			<HexItem
-				i="prisoner"
+				i="theramin"
 				bg="linear-gradient(135deg, #1de5d6, #00a98e)"
 				x={0}
 				y={0}

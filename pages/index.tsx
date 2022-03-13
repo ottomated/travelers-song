@@ -16,7 +16,7 @@ const audioData = [
 	'flute',
 	'harmonica',
 	'piano',
-	'prisoner',
+	'theramin',
 	'whistling',
 ];
 
@@ -50,8 +50,6 @@ const Index: NextPage = () => {
 		} catch (_) {
 			window.history.replaceState({}, '', '/');
 		}
-
-		console.log(song);
 
 		(async () => {
 			const context = new AudioContext();
