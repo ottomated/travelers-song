@@ -7,16 +7,8 @@
     "description": "",
     "type": "website",
     "locale": "en_US",
-    "url": "http://localhost:3000",
-    "site_name": "travelers",
-    "images": [
-      {
-        "url": "http://localhost:3000/card.png",
-        "width": 960,
-        "height": 540,
-        "alt": "travelers"
-      }
-    ]
+    "url": "https://travelers-ow.vercel.app",
+    "site_name": "travelers"
   },
   "twitter": {
     "cardType": "summary_large_image"
